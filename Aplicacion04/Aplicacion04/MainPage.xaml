@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Aplicacion04.MainPage">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Button x:Name="Item1" Text="Navigation"/>
+        <Button x:Name="Item2" Text="Tabbed Page"/>
+        <Button x:Name="Item3" Text="Carousel Page"/>
+        <Button x:Name="Item4" Text="Carousel Page Code"/>
+        <Button x:Name="Item5" Text="Modal Pages"/>
+        <Button x:Name="Item6" Text="Display Alert"/>
+    </StackLayout>
+
+</ContentPage>
